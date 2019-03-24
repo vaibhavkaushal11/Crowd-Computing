@@ -1,2 +1,5 @@
 # Crowd-Computing
 Concept of Crowd Computing in Python using statistics and matplotlib.
+There was a experiment which was first conducted by Francis Galton in a country fare, ox weightjudging it competition was organised in which around eight hundred tickets were issued,every participant were asked about the weight of the ox.The actual weight of the ox was one one nine eight lbs and if we take the median of allthe estimates it came out to be one two zero seven lbs as you can see one two zero sevenlbs is very much near to one one nine eight lbs this is the wisdom of crowd, this is thepart of crowd.So now I would like to explain the reason behind it why does wisdom of crowd prove outto be very useful here?So let us look at this picture we have actual value ok, some people under estimate the actualvalue of the ox and some people over estimate the actual value of the ox.Ok the under estimation part and the over estimation part it actually cancels out sowhat is obtained at the end is the actual value.This is the same principal that is being applied in the python program.
+
+Please ensure that you run it on the latest version of Python.
